@@ -1,3 +1,4 @@
+<?php
 <script type="text/javascript">
 var isChromium = window.chrome,
 	vendorName = window.navigator.vendor,
@@ -33,3 +34,4 @@ if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == t
 	}
 $SAFARI_URL = "apple";
 </script>
+?>
